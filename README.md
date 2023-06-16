@@ -1,0 +1,6 @@
+- 👋 Hi, I’m [Machine Learnist](https://www.kaggle.com/mlearnist) ([kaggle.com/mlearnist](https://www.kaggle.com/mlearnist)), aka [@GuilleGonzalez](https://github.com/GuilleGonzalez).
+- 👀 I’m interested in Machine Learning & Data Science.
+- 🌱 I’m Currently __Learning Machine Learning__. 
+- 💞️ I’m Looking to Work or Intern to Learn more about __Machine Learning__.
+- 📫 Contact me: machinelearnist@gmail.com
+- 🔗 Links & Socials: [Machine Learnist (Kaggle)](https://www.kaggle.com/mlearnist) | [YouTube](https://www.youtube.com/@MLearnist) | [LinkedIn](https://www.linkedin.com/in/mlearnist/) | [Twitter](https://twitter.com/MLearnist)
